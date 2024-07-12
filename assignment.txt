@@ -1,0 +1,26 @@
+#Development environment
+I downloaded the windows 10 iso file, made a bootable file with rufus and flushed it to the laptop following each step as required.
+
+#Visual studio code
+I downloaded and installed the visual studio code and installed some extensions to the program such as github and python extension.
+
+#git install
+I had a git profile before configured. I installed git for desktop and configured it for the project.
+
+#python installation
+I installed python and correctly set up the path in the environment variables.
+
+#pip install
+I installed the pip manager by downloading the get-pip.py file then running the following cURL command in the command prompt:
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py then later installed it with the command python get-pip.py
+
+#mysql workbent installation
+I downloaded and installed mysql workbench and configured the database
+
+#virtual environment install
+I set up the virtual environment for the python projects with
+pip install virtual env
+
+In this installation, I managed to perform some configurations in themeing and extensions
+
+In the set up I didnt face much challenges though except some little difficulties in the virtual environment set up
